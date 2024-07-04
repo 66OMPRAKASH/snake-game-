@@ -1,8 +1,3 @@
-#include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
-#include <graphics.h>
-#include <dos.h>
 
 void snake();
 void food();
